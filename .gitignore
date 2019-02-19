@@ -1,0 +1,4 @@
+*.pickle
+*.tar
+*.gz
+.ipynb_checkpoints/
